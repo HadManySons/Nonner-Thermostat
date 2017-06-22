@@ -13,7 +13,7 @@ def logger(x):
     with open ('Nonner_Thermostat_running_info.txt','a') as f:
         f.write('Nonner Thermostat,' + x + ',')
         f.write (str(datetime.datetime.now()) + '\n')
-    print ("Nonner Thermostat " + x + " " + str(datetime.datetime.now()))
+    #print ("Nonner Thermostat " + x + " " + str(datetime.datetime.now()))
 
 def bot_login(): #signs in to Reddit
     r = praw.Reddit(username = Nonner_Thermostat_config.username,
@@ -63,9 +63,9 @@ def run_bot(r, comments_replied_to, temp):
         if 'NONNER' in text and comment.id not in comments_replied_to and not comment.author == r.user.me():
             base, zipcode = get_base()
             wx = get_wx(zipcode)
-            print (wx)
+            #print (wx)
             mycomment = ("Every time you mention nonners, they turn down the air conditioning 0.1 degrees.  The temperature outside at " + str(base) + " is a rough " + str(wx) + " degrees while inside is a very pleasant " + str(temp) + " degrees!")
-            print (mycomment)
+            #print (mycomment)
             comment.reply(mycomment)
             #next 3 lines update the list of comments replied to
             comments_replied_to.append(comment.id)
@@ -101,8 +101,8 @@ def main():
     logger('End')
 
 
-main()
-#while True:
-#    main()
+#main()
+while True:
+    main()
 #    time.sleep(300)
     
