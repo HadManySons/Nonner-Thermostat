@@ -1,0 +1,643 @@
+Nonner Thermostat, Startup,2017-06-15 14:24:19.690235
+Nonner Thermostat, Startup,2017-06-15 14:25:08.645200
+Nonner Thermostat, Startup,2017-06-15 14:25:25.012330
+Nonner Thermostat, Startup,2017-06-15 14:25:45.981998
+Nonner Thermostat, Startup,2017-06-15 14:26:01.910657
+Nonner Thermostat, Startup,2017-06-15 14:26:19.895040
+Nonner Thermostat, Startup,2017-06-15 14:33:52.332644
+Nonner Thermostat, Startup,2017-06-15 14:34:02.884240
+Nonner Thermostat, Startup,2017-06-15 14:34:13.737251
+Nonner Thermostat, Startup,2017-06-15 14:34:30.418527
+Nonner Thermostat, Startup,2017-06-15 14:40:19.142872
+Nonner Thermostat, Startup,2017-06-15 14:40:27.012966
+Nonner Thermostat, Startup,2017-06-15 14:41:15.626756
+Nonner Thermostat, Startup,2017-06-15 14:41:23.685579
+Nonner Thermostat, Startup,2017-06-15 14:42:26.492928
+Nonner Thermostat, Startup,2017-06-15 14:43:10.802278
+Nonner Thermostat, Startup,2017-06-15 14:44:12.126333
+Nonner Thermostat, Startup,2017-06-15 14:44:26.388313
+Nonner Thermostat, Startup,2017-06-15 14:48:01.314037
+Nonner Thermostat, Startup,2017-06-15 14:49:11.236686
+Nonner Thermostat, Startup,2017-06-15 14:50:24.351355
+Nonner Thermostat, Startup,2017-06-15 14:52:04.129810
+Nonner Thermostat, Startup,2017-06-15 14:53:24.896797
+Nonner Thermostat, Startup,2017-06-15 14:53:36.600771
+Nonner Thermostat, Startup,2017-06-15 16:46:14.386431
+Nonner Thermostat, Startup,2017-06-15 16:46:30.114260
+Nonner Thermostat, Startup,2017-06-15 17:55:57.467386
+Nonner Thermostat, Startup,2017-06-15 17:56:41.732334
+Nonner Thermostat, Startup,2017-06-15 17:57:54.196756
+Nonner Thermostat, Startup,2017-06-15 17:58:14.202385
+Nonner Thermostat, Startup,2017-06-15 17:58:46.532169
+Nonner Thermostat, Startup,2017-06-15 17:59:37.619113
+Nonner Thermostat, Startup,2017-06-15 18:00:36.648060
+Nonner Thermostat, Startup,2017-06-15 18:01:03.382012
+Nonner Thermostat, Startup,2017-06-15 18:01:35.747380
+Nonner Thermostat, Startup,2017-06-15 18:02:23.839605
+Nonner Thermostat, Startup,2017-06-15 18:02:37.627742
+Nonner Thermostat, Startup,2017-06-15 18:03:31.116219
+Nonner Thermostat, Startup,2017-06-15 18:04:33.148378
+Nonner Thermostat, Startup,2017-06-15 18:04:45.323895
+Nonner Thermostat, Startup,2017-06-15 18:05:13.183377
+Nonner Thermostat, Startup,2017-06-15 18:05:30.638248
+Nonner Thermostat, Startup,2017-06-15 18:05:48.437291
+Nonner Thermostat, Startup,2017-06-15 18:11:13.553506
+Nonner Thermostat, Startup,2017-06-15 18:11:30.611865
+Nonner Thermostat, Startup,2017-06-15 18:12:47.220571
+Nonner Thermostat, Startup,2017-06-15 18:13:01.982441
+Nonner Thermostat, Startup,2017-06-15 18:14:15.016436
+Nonner Thermostat, Startup,2017-06-15 18:14:40.328276
+Nonner Thermostat, Startup,2017-06-15 18:15:27.038901
+Nonner Thermostat, Startup,2017-06-15 18:16:49.957040
+Nonner Thermostat, Startup,2017-06-15 23:47:10.551470
+Nonner Thermostat, Startup,2017-06-15 23:47:45.998456
+Nonner Thermostat, Startup,2017-06-15 23:48:19.468841
+Nonner Thermostat, Startup,2017-06-15 23:49:03.897267
+Nonner Thermostat, Startup,2017-06-15 23:49:20.913235
+Nonner Thermostat, Startup,2017-06-15 23:49:39.938023
+Nonner Thermostat, Startup,2017-06-15 23:50:07.377172
+Nonner Thermostat, Startup,2017-06-15 23:51:04.118113
+Nonner Thermostat, Startup,2017-06-15 23:51:19.279076
+Nonner Thermostat, Startup,2017-06-15 23:51:34.321198
+Nonner Thermostat, Startup,2017-06-15 23:52:49.435279
+Nonner Thermostat, Startup,2017-06-15 23:53:48.129041
+Nonner Thermostat, Startup,2017-06-15 23:55:00.571395
+Nonner Thermostat, Startup,2017-06-15 23:55:15.533955
+Nonner Thermostat, Startup,2017-06-15 23:56:54.047244
+Nonner Thermostat, Startup,2017-06-15 23:57:50.843971
+Nonner Thermostat, Startup,2017-06-15 23:59:13.122408
+Nonner Thermostat, Startup,2017-06-16 00:02:44.253967
+Nonner Thermostat, Startup,2017-06-16 00:04:44.388009
+Nonner Thermostat, Startup,2017-06-16 00:05:29.623362
+Nonner Thermostat, Startup,2017-06-16 00:05:57.409135
+Nonner Thermostat, Startup,2017-06-16 00:10:15.572128
+Nonner Thermostat, Startup,2017-06-16 00:10:40.317759
+Nonner Thermostat, Startup,2017-06-16 00:11:19.819376
+Nonner Thermostat, Startup,2017-06-16 00:11:27.674625
+Nonner Thermostat, Startup,2017-06-16 00:11:37.963529
+Nonner Thermostat, Startup,2017-06-16 00:12:02.908025
+Nonner Thermostat, Startup,2017-06-16 00:12:13.833647
+Nonner Thermostat, Startup,2017-06-16 00:12:31.784405
+Nonner Thermostat, Startup,2017-06-16 00:14:36.529046
+Nonner Thermostat, Startup,2017-06-16 19:28:35.002462
+Nonner Thermostat, Startup,2017-06-16 19:29:44.240463
+Nonner Thermostat, Startup,2017-06-16 19:30:24.494411
+Nonner Thermostat, Startup,2017-06-16 19:30:32.785311
+Nonner Thermostat, Startup,2017-06-16 19:34:00.408635
+Nonner Thermostat, Startup,2017-06-16 19:34:09.709179
+Nonner Thermostat, Startup,2017-06-16 19:34:22.943434
+Nonner Thermostat, Startup,2017-06-16 19:35:02.112433
+Nonner Thermostat, Startup,2017-06-16 19:35:23.129634
+Nonner Thermostat, Startup,2017-06-16 19:35:55.596673
+Nonner Thermostat, Startup,2017-06-16 19:36:18.666331
+Nonner Thermostat, Startup,2017-06-16 19:37:20.472847
+Nonner Thermostat, Startup,2017-06-16 19:37:31.368323
+Nonner Thermostat, Startup,2017-06-16 19:38:43.322993
+Nonner Thermostat, Startup,2017-06-16 19:39:23.463701
+Nonner Thermostat, Startup,2017-06-16 19:39:58.629043
+Nonner Thermostat, Startup,2017-06-16 19:41:36.649406
+Nonner Thermostat, Startup,2017-06-16 19:56:37.285938
+Nonner Thermostat, Startup,2017-06-16 20:21:25.334613
+Nonner Thermostat, Startup,2017-06-16 20:22:16.533136
+Nonner Thermostat, Startup,2017-06-16 20:23:05.910366
+Nonner Thermostat, Startup,2017-06-16 20:30:52.522123
+Nonner Thermostat, Startup,2017-06-16 20:32:05.221380
+Nonner Thermostat, Startup,2017-06-16 20:32:26.611599
+Nonner Thermostat, Startup,2017-06-16 20:41:56.495552
+Nonner Thermostat, Startup,2017-06-16 20:42:11.582186
+Nonner Thermostat, Startup,2017-06-17 10:59:28.695099
+Nonner Thermostat, Startup,2017-06-17 11:04:04.074936
+Nonner Thermostat, Startup,2017-06-17 11:04:20.617806
+Nonner Thermostat, Startup,2017-06-17 11:04:50.201195
+Nonner Thermostat, Startup,2017-06-17 11:05:16.500659
+Nonner Thermostat, Startup,2017-06-17 11:05:28.780142
+Nonner Thermostat, Startup,2017-06-17 11:15:13.709001
+Nonner Thermostat, Start of Cycle,2017-06-17 11:15:13.766653
+Nonner Thermostat, Startup,2017-06-17 11:16:37.601035
+Nonner Thermostat, End,2017-06-17 11:16:40.985003
+Nonner Thermostat, Startup,2017-06-17 11:26:21.502852
+Nonner Thermostat, End,2017-06-17 11:26:30.174977
+Nonner Thermostat, Startup,2017-06-17 13:15:50.030149
+Nonner Thermostat, End,2017-06-17 13:15:56.432727
+Nonner Thermostat, Startup,2017-06-17 13:27:58.126180
+Nonner Thermostat, End,2017-06-17 13:28:00.508388
+Nonner Thermostat, Startup,2017-06-17 13:50:52.417472
+Nonner Thermostat, End,2017-06-17 13:50:55.662777
+Nonner Thermostat, Startup,2017-06-17 14:13:32.763590
+Nonner Thermostat, End,2017-06-17 14:13:35.617784
+Nonner Thermostat, Startup,2017-06-17 18:37:52.426693
+Nonner Thermostat, End,2017-06-17 18:37:54.481804
+Nonner Thermostat, Startup,2017-06-17 18:42:20.211615
+Nonner Thermostat, End,2017-06-17 18:42:30.834416
+Nonner Thermostat, Startup,2017-06-17 18:54:12.325491
+Nonner Thermostat, End,2017-06-17 18:54:22.960623
+Nonner Thermostat, Startup,2017-06-17 19:15:39.982838
+Nonner Thermostat, End,2017-06-17 19:15:50.443221
+Nonner Thermostat, Startup,2017-06-17 19:38:07.802636
+Nonner Thermostat, End,2017-06-17 19:38:21.005251
+Nonner Thermostat, Startup,2017-06-17 19:51:54.086609
+Nonner Thermostat, End,2017-06-17 19:52:21.029166
+Nonner Thermostat, Startup,2017-06-17 20:04:34.514569
+Nonner Thermostat, End,2017-06-17 20:04:59.492466
+Nonner Thermostat, Startup,2017-06-17 20:26:10.667523
+Nonner Thermostat, End,2017-06-17 20:26:30.562237
+Nonner Thermostat, Startup,2017-06-17 20:48:01.081190
+Nonner Thermostat, End,2017-06-17 20:48:17.802805
+Nonner Thermostat, Startup,2017-06-17 21:09:15.131498
+Nonner Thermostat, End,2017-06-17 21:09:30.454072
+Nonner Thermostat, Startup,2017-06-17 21:23:51.329135
+Nonner Thermostat, End,2017-06-17 21:24:11.756542
+Nonner Thermostat, Startup,2017-06-17 21:44:56.250254
+Nonner Thermostat, End,2017-06-17 21:45:21.546483
+Nonner Thermostat, Startup,2017-06-17 21:56:09.905208
+Nonner Thermostat, End,2017-06-17 21:56:26.380759
+Nonner Thermostat, Startup,2017-06-18 05:49:59.168366
+Nonner Thermostat, End,2017-06-18 05:50:41.730176
+Nonner Thermostat, Startup,2017-06-18 05:51:49.653436
+Nonner Thermostat, End,2017-06-18 05:52:17.796552
+Nonner Thermostat, Startup,2017-06-18 05:52:17.799560
+Nonner Thermostat, End,2017-06-18 05:52:37.769301
+Nonner Thermostat, Startup,2017-06-18 05:52:37.772309
+Nonner Thermostat, End,2017-06-18 05:52:58.301929
+Nonner Thermostat, Startup,2017-06-18 05:52:58.304937
+Nonner Thermostat, End,2017-06-18 05:53:19.821342
+Nonner Thermostat, Startup,2017-06-18 05:53:19.840606
+Nonner Thermostat, End,2017-06-18 05:53:39.846635
+Nonner Thermostat, Startup,2017-06-18 05:53:39.849644
+Nonner Thermostat, End,2017-06-18 05:53:59.711718
+Nonner Thermostat, Startup,2017-06-18 05:53:59.745826
+Nonner Thermostat, End,2017-06-18 05:54:20.814498
+Nonner Thermostat, Startup,2017-06-18 05:54:20.833657
+Nonner Thermostat, End,2017-06-18 05:54:42.394448
+Nonner Thermostat, Startup,2017-06-18 05:54:42.397455
+Nonner Thermostat, End,2017-06-18 05:55:03.253311
+Nonner Thermostat, Startup,2017-06-18 05:55:03.257310
+Nonner Thermostat, End,2017-06-18 05:55:24.719771
+Nonner Thermostat, Startup,2017-06-18 05:55:24.722778
+Nonner Thermostat, End,2017-06-18 05:55:42.378418
+Nonner Thermostat, Startup,2017-06-18 05:55:42.381427
+Nonner Thermostat, End,2017-06-18 05:55:59.506996
+Nonner Thermostat, Startup,2017-06-18 05:55:59.515486
+Nonner Thermostat, End,2017-06-18 05:56:17.067258
+Nonner Thermostat, Startup,2017-06-18 05:56:17.069727
+Nonner Thermostat, End,2017-06-18 05:56:34.077710
+Nonner Thermostat, Startup,2017-06-18 05:56:34.104467
+Nonner Thermostat, End,2017-06-18 05:56:50.393110
+Nonner Thermostat, Startup,2017-06-18 05:56:50.434029
+Nonner Thermostat, End,2017-06-18 05:57:07.402357
+Nonner Thermostat, Startup,2017-06-18 05:57:07.405366
+Nonner Thermostat, End,2017-06-18 05:57:24.409689
+Nonner Thermostat, Startup,2017-06-18 05:57:24.429362
+Nonner Thermostat, End,2017-06-18 05:57:43.997664
+Nonner Thermostat, Startup,2017-06-18 05:57:44.001675
+Nonner Thermostat, End,2017-06-18 05:57:59.911528
+Nonner Thermostat, Startup,2017-06-18 05:57:59.920553
+Nonner Thermostat, End,2017-06-18 05:58:15.725720
+Nonner Thermostat, Startup,2017-06-18 05:58:15.732704
+Nonner Thermostat, End,2017-06-18 05:58:31.583245
+Nonner Thermostat, Startup,2017-06-18 05:58:31.587219
+Nonner Thermostat, End,2017-06-18 05:58:46.669604
+Nonner Thermostat, Startup,2017-06-18 05:58:46.695982
+Nonner Thermostat, End,2017-06-18 05:59:02.726693
+Nonner Thermostat, Startup,2017-06-18 05:59:02.769808
+Nonner Thermostat, End,2017-06-18 05:59:16.846977
+Nonner Thermostat, Startup,2017-06-18 05:59:16.861016
+Nonner Thermostat, End,2017-06-18 05:59:31.079434
+Nonner Thermostat, Startup,2017-06-18 05:59:31.083445
+Nonner Thermostat, End,2017-06-18 05:59:44.603933
+Nonner Thermostat, Startup,2017-06-18 05:59:44.607947
+Nonner Thermostat, End,2017-06-18 06:00:00.130036
+Nonner Thermostat, Startup,2017-06-18 06:00:00.136053
+Nonner Thermostat, End,2017-06-18 06:00:21.185447
+Nonner Thermostat, Startup,2017-06-18 06:00:21.189924
+Nonner Thermostat, End,2017-06-18 06:00:42.714701
+Nonner Thermostat, Startup,2017-06-18 06:00:42.759748
+Nonner Thermostat, Startup,2017-06-18 06:02:10.835064
+Nonner Thermostat, End,2017-06-18 06:02:32.515619
+Nonner Thermostat, Startup,2017-06-18 06:03:32.521725
+Nonner Thermostat, End,2017-06-18 06:03:52.722132
+Nonner Thermostat, Startup,2017-06-18 06:04:52.750463
+Nonner Thermostat, End,2017-06-18 06:05:10.871129
+Nonner Thermostat, Startup,2017-06-18 06:06:10.876251
+Nonner Thermostat, End,2017-06-18 06:06:28.512521
+Nonner Thermostat, Startup,2017-06-18 06:07:28.553784
+Nonner Thermostat, End,2017-06-18 06:07:45.375898
+Nonner Thermostat, Startup,2017-06-18 06:08:45.428627
+Nonner Thermostat, End,2017-06-18 06:08:59.948518
+Nonner Thermostat, Startup,2017-06-18 06:09:59.975194
+Nonner Thermostat, End,2017-06-18 06:10:21.957089
+Nonner Thermostat, Startup,2017-06-18 06:11:21.961143
+Nonner Thermostat, End,2017-06-18 06:11:44.209674
+Nonner Thermostat, Startup,2017-06-18 06:12:44.243951
+Nonner Thermostat, End,2017-06-18 06:13:03.809484
+Nonner Thermostat, Startup,2017-06-18 06:14:03.815463
+Nonner Thermostat, End,2017-06-18 06:14:23.041078
+Nonner Thermostat, Startup,2017-06-18 06:15:23.045266
+Nonner Thermostat, End,2017-06-18 06:15:40.343136
+Nonner Thermostat, Startup,2017-06-18 06:16:40.348185
+Nonner Thermostat, End,2017-06-18 06:16:57.213264
+Nonner Thermostat, Startup,2017-06-18 06:17:57.239565
+Nonner Thermostat, End,2017-06-18 06:18:13.538464
+Nonner Thermostat, Startup,2017-06-18 06:19:13.548369
+Nonner Thermostat, End,2017-06-18 06:19:41.879870
+Nonner Thermostat, Startup,2017-06-18 06:20:41.934531
+Nonner Thermostat, End,2017-06-18 06:21:03.519297
+Nonner Thermostat, Startup,2017-06-18 12:57:23.566615
+Nonner Thermostat, End,2017-06-18 12:57:42.886222
+Nonner Thermostat, Startup,2017-06-18 12:58:42.903416
+Nonner Thermostat, End,2017-06-18 12:59:19.440716
+Nonner Thermostat, Startup,2017-06-18 13:00:19.490334
+Nonner Thermostat, End,2017-06-18 13:01:51.432022
+Nonner Thermostat, Startup,2017-06-18 13:02:51.440925
+Nonner Thermostat, End,2017-06-18 13:03:29.725431
+Nonner Thermostat, Startup,2017-06-18 13:04:29.729528
+Nonner Thermostat, End,2017-06-18 13:04:56.043004
+Nonner Thermostat, Startup,2017-06-18 13:05:56.058376
+Nonner Thermostat, End,2017-06-18 13:06:14.125992
+Nonner Thermostat, Startup,2017-06-18 13:07:14.130836
+Nonner Thermostat, End,2017-06-18 13:07:30.457053
+Nonner Thermostat, Startup,2017-06-18 13:08:30.490183
+Nonner Thermostat, End,2017-06-18 13:08:49.419952
+Nonner Thermostat, Startup,2017-06-18 13:09:49.461504
+Nonner Thermostat, End,2017-06-18 13:10:08.097801
+Nonner Thermostat, Startup,2017-06-18 13:11:08.128360
+Nonner Thermostat, End,2017-06-18 13:11:34.159963
+Nonner Thermostat, Startup,2017-06-18 13:12:34.164563
+Nonner Thermostat, End,2017-06-18 13:12:54.944900
+Nonner Thermostat, Startup,2017-06-18 13:13:54.998901
+Nonner Thermostat, End,2017-06-18 13:14:16.825509
+Nonner Thermostat, Startup,2017-06-18 13:15:16.830001
+Nonner Thermostat, End,2017-06-18 13:15:34.974763
+Nonner Thermostat, Startup,2017-06-18 13:16:34.980055
+Nonner Thermostat, End,2017-06-18 13:16:52.435722
+Nonner Thermostat, Startup,2017-06-18 13:17:52.475737
+Nonner Thermostat, End,2017-06-18 13:18:10.344385
+Nonner Thermostat, Startup,2017-06-18 13:19:10.349683
+Nonner Thermostat, End,2017-06-18 13:19:25.326329
+Nonner Thermostat, Startup,2017-06-18 13:20:25.331543
+Nonner Thermostat, End,2017-06-18 13:20:53.499442
+Nonner Thermostat, Startup,2017-06-18 13:21:53.505154
+Nonner Thermostat, End,2017-06-18 13:22:15.182775
+Nonner Thermostat, Startup,2017-06-18 13:23:15.198054
+Nonner Thermostat, End,2017-06-18 13:23:35.262118
+Nonner Thermostat, Startup,2017-06-18 13:24:35.288893
+Nonner Thermostat, End,2017-06-18 13:24:53.521314
+Nonner Thermostat, Startup,2017-06-18 13:25:53.532123
+Nonner Thermostat, End,2017-06-18 13:26:11.180321
+Nonner Thermostat, Startup,2017-06-18 13:27:11.184578
+Nonner Thermostat, End,2017-06-18 13:27:27.984011
+Nonner Thermostat, Startup,2017-06-18 13:28:27.987309
+Nonner Thermostat, End,2017-06-18 13:28:43.525971
+Nonner Thermostat, Startup,2017-06-18 13:29:43.529344
+Nonner Thermostat, End,2017-06-18 13:29:57.718082
+Nonner Thermostat, Startup,2017-06-18 13:30:57.722405
+Nonner Thermostat, End,2017-06-18 13:31:20.115929
+Nonner Thermostat, Startup,2017-06-18 13:32:20.122440
+Nonner Thermostat, End,2017-06-18 13:32:41.102742
+Nonner Thermostat, Startup,2017-06-18 13:33:41.107452
+Nonner Thermostat, End,2017-06-18 13:34:00.937399
+Nonner Thermostat, Startup,2017-06-18 13:35:00.968066
+Nonner Thermostat, End,2017-06-18 13:35:18.712968
+Nonner Thermostat, Startup,2017-06-18 13:36:18.717765
+Nonner Thermostat, End,2017-06-18 13:36:36.606933
+Nonner Thermostat, Startup,2017-06-18 13:37:36.640454
+Nonner Thermostat, End,2017-06-18 13:37:51.939777
+Nonner Thermostat, Startup,2017-06-18 13:38:51.960477
+Nonner Thermostat, End,2017-06-18 13:39:18.001137
+Nonner Thermostat, Startup,2017-06-18 13:40:18.053204
+Nonner Thermostat, End,2017-06-18 13:40:41.185465
+Nonner Thermostat, Startup,2017-06-18 13:41:41.189783
+Nonner Thermostat, Startup,2017-06-18 13:44:36.059343
+Nonner Thermostat, End,2017-06-18 13:44:54.477278
+Nonner Thermostat, Startup,2017-06-18 13:45:08.688113
+Nonner Thermostat, End,2017-06-18 13:45:26.785837
+Nonner Thermostat, Startup,2017-06-18 13:45:40.541968
+Nonner Thermostat, End,2017-06-18 13:45:58.310214
+Nonner Thermostat, Startup,2017-06-18 13:46:12.532631
+Nonner Thermostat, End,2017-06-18 13:46:28.283188
+Nonner Thermostat, Startup,2017-06-18 13:46:40.216285
+Nonner Thermostat, End,2017-06-18 13:46:56.880275
+Nonner Thermostat, Startup,2017-06-18 13:47:08.796232
+Nonner Thermostat, End,2017-06-18 13:47:24.441425
+Nonner Thermostat, Startup,2017-06-18 13:47:35.505506
+Nonner Thermostat, End,2017-06-18 13:47:51.190297
+Nonner Thermostat, Startup,2017-06-18 13:48:06.449009
+Nonner Thermostat, End,2017-06-18 13:48:20.780082
+Nonner Thermostat, Startup,2017-06-18 13:48:31.039204
+Nonner Thermostat, End,2017-06-18 13:48:47.349877
+Nonner Thermostat, Startup,2017-06-18 13:49:01.495106
+Nonner Thermostat, End,2017-06-18 13:49:16.405771
+Nonner Thermostat, Startup,2017-06-18 13:49:25.198314
+Nonner Thermostat, End,2017-06-18 13:49:38.361644
+Nonner Thermostat, Startup,2017-06-18 13:49:46.576304
+Nonner Thermostat, End,2017-06-18 13:49:58.569188
+Nonner Thermostat, Startup,2017-06-18 13:50:15.793412
+Nonner Thermostat, End,2017-06-18 13:50:37.703920
+Nonner Thermostat, Startup,2017-06-18 13:50:55.909181
+Nonner Thermostat, End,2017-06-18 13:51:17.701446
+Nonner Thermostat, Startup,2017-06-18 13:51:34.702974
+Nonner Thermostat, End,2017-06-18 13:51:56.193745
+Nonner Thermostat, Startup,2017-06-18 13:52:13.606621
+Nonner Thermostat, End,2017-06-18 13:52:36.039464
+Nonner Thermostat, Startup,2017-06-18 13:52:51.727268
+Nonner Thermostat, End,2017-06-18 13:53:13.567417
+Nonner Thermostat, Startup,2017-06-18 13:53:29.882987
+Nonner Thermostat, End,2017-06-18 13:53:49.922837
+Nonner Thermostat, Startup,2017-06-18 13:54:10.127738
+Nonner Thermostat, End,2017-06-18 13:54:29.213414
+Nonner Thermostat, Startup,2017-06-18 15:42:35.744073
+Nonner Thermostat, End,2017-06-18 15:43:00.310402
+Nonner Thermostat, Startup,2017-06-18 15:50:53.174773
+Nonner Thermostat, End,2017-06-18 15:51:15.822418
+Nonner Thermostat, Startup,2017-06-18 15:51:40.566209
+Nonner Thermostat, End,2017-06-18 15:52:03.247742
+Nonner Thermostat, Startup,2017-06-18 15:54:49.227847
+Nonner Thermostat, End,2017-06-18 15:55:12.014917
+Nonner Thermostat, Startup,2017-06-18 16:00:12.045726
+Nonner Thermostat, End,2017-06-18 16:00:38.418802
+Nonner Thermostat, Startup,2017-06-18 16:05:38.458661
+Nonner Thermostat, End,2017-06-18 16:05:55.633736
+Nonner Thermostat, Startup,2017-06-18 16:10:55.636868
+Nonner Thermostat, End,2017-06-18 16:11:18.200248
+Nonner Thermostat, Startup,2017-06-18 16:16:18.203802
+Nonner Thermostat, End,2017-06-18 16:16:36.766332
+Nonner Thermostat, Startup,2017-06-18 16:21:36.785621
+Nonner Thermostat, End,2017-06-18 16:21:58.019200
+Nonner Thermostat, Startup,2017-06-18 16:26:58.024545
+Nonner Thermostat, End,2017-06-18 16:27:16.385164
+Nonner Thermostat, Startup,2017-06-18 16:32:16.437298
+Nonner Thermostat, End,2017-06-18 16:32:37.696019
+Nonner Thermostat, Startup,2017-06-18 16:37:37.700041
+Nonner Thermostat, End,2017-06-18 16:37:57.035231
+Nonner Thermostat, Startup,2017-06-18 16:42:57.039296
+Nonner Thermostat, End,2017-06-18 16:43:19.171847
+Nonner Thermostat, Startup,2017-06-18 16:48:19.217291
+Nonner Thermostat, End,2017-06-18 16:48:34.222467
+Nonner Thermostat, Startup,2017-06-18 16:53:34.225988
+Nonner Thermostat, End,2017-06-18 16:53:54.048246
+Nonner Thermostat, Startup,2017-06-18 16:58:54.051897
+Nonner Thermostat, Startup,2017-06-18 17:03:09.919599
+Nonner Thermostat, End,2017-06-18 17:03:37.936794
+Nonner Thermostat, Startup,2017-06-18 17:08:26.442001
+Nonner Thermostat, End,2017-06-18 17:08:41.354281
+Nonner Thermostat, Startup,2017-06-18 17:13:41.357297
+Nonner Thermostat, End,2017-06-18 17:14:10.361921
+Nonner Thermostat, Startup,2017-06-18 17:19:10.365156
+Nonner Thermostat, End,2017-06-18 17:19:34.238186
+Nonner Thermostat, Startup,2017-06-18 17:24:34.241622
+Nonner Thermostat, End,2017-06-18 17:24:53.677184
+Nonner Thermostat, Startup,2017-06-18 17:29:53.680239
+Nonner Thermostat, End,2017-06-18 17:30:10.714338
+Nonner Thermostat, Startup,2017-06-18 17:35:10.718025
+Nonner Thermostat, End,2017-06-18 17:35:29.303422
+Nonner Thermostat, Startup,2017-06-18 17:40:29.306959
+Nonner Thermostat, End,2017-06-18 17:41:00.148307
+Nonner Thermostat, Startup,2017-06-18 17:46:00.151930
+Nonner Thermostat, End,2017-06-18 17:46:16.979500
+Nonner Thermostat, Startup,2017-06-18 17:51:16.982183
+Nonner Thermostat, End,2017-06-18 17:51:42.900070
+Nonner Thermostat, Startup,2017-06-18 17:56:42.903650
+Nonner Thermostat, End,2017-06-18 17:57:02.254570
+Nonner Thermostat, Startup,2017-06-18 18:02:02.294765
+Nonner Thermostat, End,2017-06-18 18:02:23.128070
+Nonner Thermostat, Startup,2017-06-18 18:07:23.131550
+Nonner Thermostat, End,2017-06-18 18:07:39.731011
+Nonner Thermostat, Startup,2017-06-18 18:12:39.757198
+Nonner Thermostat, End,2017-06-18 18:13:02.231790
+Nonner Thermostat, Startup,2017-06-18 18:18:02.234923
+Nonner Thermostat, End,2017-06-18 18:18:17.487745
+Nonner Thermostat, Startup,2017-06-18 18:23:17.491770
+Nonner Thermostat, End,2017-06-18 18:23:44.280626
+Nonner Thermostat, Startup,2017-06-18 18:28:44.329935
+Nonner Thermostat, End,2017-06-18 18:29:10.479904
+Nonner Thermostat, Startup,2017-06-18 18:34:10.483144
+Nonner Thermostat, End,2017-06-18 18:34:30.889069
+Nonner Thermostat, Startup,2017-06-18 18:39:30.901525
+Nonner Thermostat, End,2017-06-18 18:39:45.216385
+Nonner Thermostat, Startup,2017-06-18 18:44:45.221000
+Nonner Thermostat, End,2017-06-18 18:45:03.524080
+Nonner Thermostat, Startup,2017-06-18 18:50:03.527880
+Nonner Thermostat, End,2017-06-18 18:50:26.051603
+Nonner Thermostat, Startup,2017-06-18 21:09:47.779683
+Nonner Thermostat, End,2017-06-18 21:10:00.538896
+Nonner Thermostat, Startup,2017-06-18 21:15:00.542631
+Nonner Thermostat, End,2017-06-18 21:15:18.500464
+Nonner Thermostat, Startup,2017-06-18 21:20:18.537043
+Nonner Thermostat, End,2017-06-18 21:20:42.580237
+Nonner Thermostat, Startup,2017-06-18 21:25:42.606897
+Nonner Thermostat, End,2017-06-18 21:26:01.635657
+Nonner Thermostat, Startup,2017-06-18 21:31:01.638709
+Nonner Thermostat, End,2017-06-18 21:31:27.502178
+Nonner Thermostat, Startup,2017-06-19 05:35:33.915023
+Nonner Thermostat, End,2017-06-19 05:35:59.133219
+Nonner Thermostat, Startup,2017-06-19 05:40:59.136236
+Nonner Thermostat, End,2017-06-19 05:41:19.994431
+Nonner Thermostat, Startup,2017-06-19 05:46:20.010596
+Nonner Thermostat, End,2017-06-19 05:46:36.609194
+Nonner Thermostat, Startup,2017-06-19 05:51:36.612945
+Nonner Thermostat, Startup,2017-06-19 06:44:31.968897
+Nonner Thermostat, End,2017-06-19 06:44:36.578305
+Nonner Thermostat, Startup,2017-06-19 06:49:36.581018
+Nonner Thermostat, End,2017-06-19 06:49:37.764776
+Nonner Thermostat, Startup,2017-06-19 06:54:35.550244
+Nonner Thermostat, End,2017-06-19 06:54:36.883507
+Nonner Thermostat, Startup,2017-06-19 06:59:36.887324
+Nonner Thermostat, End,2017-06-19 06:59:40.234721
+Nonner Thermostat, Startup,2017-06-19 07:04:40.236934
+Nonner Thermostat, End,2017-06-19 07:04:41.582557
+Nonner Thermostat, Startup,2017-06-19 07:09:41.584658
+Nonner Thermostat, End,2017-06-19 07:09:44.926376
+Nonner Thermostat, Startup,2017-06-19 07:20:53.139092
+Nonner Thermostat, End,2017-06-19 07:20:54.397332
+Nonner Thermostat, Startup,2017-06-19 07:22:24.898947
+Nonner Thermostat, End,2017-06-19 07:22:26.363833
+Nonner Thermostat, Startup,2017-06-19 07:27:36.856036
+Nonner Thermostat, End,2017-06-19 07:27:38.120467
+Nonner Thermostat, Startup,2017-06-19 07:32:53.618143
+Nonner Thermostat, End,2017-06-19 07:32:54.818659
+Nonner Thermostat, Startup,2017-06-19 07:38:04.157069
+Nonner Thermostat, End,2017-06-19 07:38:05.399461
+Nonner Thermostat, Startup,2017-06-19 07:43:21.183088
+Nonner Thermostat, End,2017-06-19 07:43:22.779198
+Nonner Thermostat, Startup,2017-06-19 07:48:34.757600
+Nonner Thermostat, End,2017-06-19 07:48:35.997673
+Nonner Thermostat, Startup,2017-06-19 07:53:50.929692
+Nonner Thermostat, End,2017-06-19 07:53:52.131135
+Nonner Thermostat, Startup,2017-06-19 07:59:00.939092
+Nonner Thermostat, End,2017-06-19 07:59:02.139310
+Nonner Thermostat, Startup,2017-06-19 08:04:16.826041
+Nonner Thermostat, End,2017-06-19 08:04:18.507567
+Nonner Thermostat, Startup,2017-06-19 08:09:27.217601
+Nonner Thermostat, End,2017-06-19 08:09:28.388453
+Nonner Thermostat, Startup,2017-06-19 08:14:42.079314
+Nonner Thermostat, End,2017-06-19 08:14:43.290768
+Nonner Thermostat, Startup,2017-06-19 08:19:51.814776
+Nonner Thermostat, End,2017-06-19 08:19:53.008207
+Nonner Thermostat, Startup,2017-06-19 08:25:07.776036
+Nonner Thermostat, End,2017-06-19 08:25:09.028509
+Nonner Thermostat, Startup,2017-06-19 08:30:26.455195
+Nonner Thermostat, End,2017-06-19 08:30:27.700759
+Nonner Thermostat, Startup,2017-06-19 08:35:42.118908
+Nonner Thermostat, End,2017-06-19 08:35:43.288378
+Nonner Thermostat, Startup,2017-06-19 08:40:59.833565
+Nonner Thermostat, End,2017-06-19 08:41:01.036256
+Nonner Thermostat, Startup,2017-06-19 08:46:12.297396
+Nonner Thermostat, End,2017-06-19 08:46:15.756362
+Nonner Thermostat, Startup,2017-06-19 08:51:15.767037
+Nonner Thermostat, End,2017-06-19 08:51:16.960619
+Nonner Thermostat, Startup,2017-06-19 08:53:34.539308
+Nonner Thermostat, End,2017-06-19 08:53:35.787133
+Nonner Thermostat, Startup,2017-06-19 10:03:40.360381
+Nonner Thermostat, End,2017-06-19 10:03:41.534881
+Nonner Thermostat, Startup,2017-06-19 10:08:50.403969
+Nonner Thermostat, End,2017-06-19 10:08:51.614931
+Nonner Thermostat, Startup,2017-06-19 10:14:05.250736
+Nonner Thermostat, End,2017-06-19 10:14:06.442619
+Nonner Thermostat, Startup,2017-06-19 10:19:14.634330
+Nonner Thermostat, End,2017-06-19 10:19:15.820641
+Nonner Thermostat, Startup,2017-06-19 10:24:29.696195
+Nonner Thermostat, End,2017-06-19 10:24:30.862338
+Nonner Thermostat, Startup,2017-06-19 10:29:38.433456
+Nonner Thermostat, End,2017-06-19 10:29:39.621606
+Nonner Thermostat, Startup,2017-06-19 10:34:52.640262
+Nonner Thermostat, End,2017-06-19 10:34:53.788919
+Nonner Thermostat, Startup,2017-06-19 10:40:02.151917
+Nonner Thermostat, End,2017-06-19 10:40:03.352779
+Nonner Thermostat, Startup,2017-06-19 10:45:15.882329
+Nonner Thermostat, End,2017-06-19 10:45:17.716198
+Nonner Thermostat, Startup,2017-06-19 10:50:35.551806
+Nonner Thermostat, End,2017-06-19 10:50:37.353059
+Nonner Thermostat, Startup,2017-06-19 10:55:49.600135
+Nonner Thermostat, End,2017-06-19 10:55:50.777259
+Nonner Thermostat, Startup,2017-06-19 11:01:10.045388
+Nonner Thermostat, End,2017-06-19 11:01:11.601153
+Nonner Thermostat, Startup,2017-06-19 11:06:24.373998
+Nonner Thermostat, End,2017-06-19 11:06:43.244804
+Nonner Thermostat, Startup,2017-06-19 11:11:59.095633
+Nonner Thermostat, End,2017-06-19 11:12:00.332248
+Nonner Thermostat,Start,2017-06-21 20:42:56.786143
+Nonner Thermostat,End,2017-06-21 20:42:58.988549
+Nonner Thermostat,Start,2017-06-21 21:03:41.722692
+Nonner Thermostat,End,2017-06-21 21:03:45.936913
+Nonner Thermostat,Start,2017-06-21 21:04:00.836194
+Nonner Thermostat,End,2017-06-21 21:04:03.305914
+Nonner Thermostat,Start,2017-06-21 21:09:17.659010
+Nonner Thermostat,End,2017-06-21 21:09:20.349320
+Nonner Thermostat,Start,2017-06-21 21:14:34.722326
+Nonner Thermostat,End,2017-06-21 21:14:37.208342
+Nonner Thermostat,Start,2017-06-21 21:19:46.473632
+Nonner Thermostat,End,2017-06-21 21:19:48.770029
+Nonner Thermostat,Start,2017-06-21 21:25:02.828735
+Nonner Thermostat,End,2017-06-21 21:25:04.350092
+Nonner Thermostat,Start,2017-06-21 21:30:23.632696
+Nonner Thermostat,End,2017-06-21 21:30:25.336993
+Nonner Thermostat,Start,2017-06-21 21:35:39.628112
+Nonner Thermostat,End,2017-06-21 21:35:42.512390
+Nonner Thermostat,Start,2017-06-21 21:39:30.653532
+Nonner Thermostat,End,2017-06-21 21:39:33.687859
+Nonner Thermostat,Start,2017-06-21 21:39:42.687949
+Nonner Thermostat,End,2017-06-21 21:39:46.529265
+Nonner Thermostat,Start,2017-06-21 21:45:00.423576
+Nonner Thermostat,End,2017-06-21 21:45:02.283073
+Nonner Thermostat,Start,2017-06-21 21:50:21.348122
+Nonner Thermostat,End,2017-06-21 21:50:23.528663
+Nonner Thermostat,Start,2017-06-21 21:55:40.314278
+Nonner Thermostat,End,2017-06-21 21:55:46.508367
+Nonner Thermostat,Start,2017-06-21 22:01:04.994640
+Nonner Thermostat,End,2017-06-21 22:01:06.939326
+Nonner Thermostat,Start,2017-06-21 22:06:20.455433
+Nonner Thermostat,End,2017-06-21 22:06:22.102117
+Nonner Thermostat,Start,2017-06-21 22:11:40.845561
+Nonner Thermostat,End,2017-06-21 22:11:43.016877
+Nonner Thermostat,Start,2017-06-21 22:16:56.366142
+Nonner Thermostat,End,2017-06-21 22:17:01.429189
+Nonner Thermostat,Start,2017-06-21 22:22:18.155321
+Nonner Thermostat,End,2017-06-21 22:22:20.773468
+Nonner Thermostat,Start,2017-06-22 08:38:24.625654
+Nonner Thermostat,End,2017-06-22 08:38:29.718643
+Nonner Thermostat,Start,2017-06-22 08:39:18.784629
+Nonner Thermostat,End,2017-06-22 08:39:21.043913
+Nonner Thermostat,Start,2017-06-22 08:44:35.516631
+Nonner Thermostat,End,2017-06-22 08:44:37.252030
+Nonner Thermostat,Start,2017-06-22 08:49:45.848819
+Nonner Thermostat,End,2017-06-22 08:49:47.368018
+Nonner Thermostat,Start,2017-06-22 09:47:02.094413
+Nonner Thermostat,End,2017-06-22 09:47:03.404311
+Nonner Thermostat,Start,2017-06-22 09:52:41.694503
+Nonner Thermostat,End,2017-06-22 09:52:43.222675
+Nonner Thermostat,Start,2017-06-22 09:58:25.008953
+Nonner Thermostat,End,2017-06-22 09:58:26.398223
+Nonner Thermostat,Start,2017-06-22 10:04:02.119494
+Nonner Thermostat,End,2017-06-22 10:04:03.519299
+Nonner Thermostat,Start,2017-06-22 10:09:42.073997
+Nonner Thermostat,End,2017-06-22 10:09:43.420491
+Nonner Thermostat,Start,2017-06-22 10:15:15.665948
+Nonner Thermostat,End,2017-06-22 10:15:17.073628
+Nonner Thermostat,Start,2017-06-22 10:21:01.511765
+Nonner Thermostat,End,2017-06-22 10:21:02.839864
+Nonner Thermostat,Start,2017-06-22 10:26:51.011443
+Nonner Thermostat,End,2017-06-22 10:26:52.305467
+Nonner Thermostat,Start,2017-06-22 10:32:33.366664
+Nonner Thermostat,End,2017-06-22 10:32:35.221312
+Nonner Thermostat,Start,2017-06-22 10:38:19.669837
+Nonner Thermostat,End,2017-06-22 10:38:21.240630
+Nonner Thermostat,Start,2017-06-22 10:43:57.236258
+Nonner Thermostat,End,2017-06-22 10:44:00.606938
+Nonner Thermostat,Start,2017-06-22 10:49:41.245213
+Nonner Thermostat,End,2017-06-22 10:49:42.633316
+Nonner Thermostat,Start,2017-06-22 10:55:14.716300
+Nonner Thermostat,End,2017-06-22 10:55:18.424064
+Nonner Thermostat,Start,2017-06-22 10:59:54.400915
+Nonner Thermostat,End,2017-06-22 10:59:58.963599
+Nonner Thermostat,Start,2017-06-22 11:10:28.488430
+Nonner Thermostat,End,2017-06-22 11:10:29.792645
+Nonner Thermostat,Start,2017-06-22 11:12:06.772155
+Nonner Thermostat,End,2017-06-22 11:12:08.043233
+Nonner Thermostat,Start,2017-06-22 11:12:59.838092
+Nonner Thermostat,End,2017-06-22 11:13:01.188362
+Nonner Thermostat,Start,2017-06-22 11:13:48.655978
+Nonner Thermostat,End,2017-06-22 11:13:50.951420
+Nonner Thermostat,Start,2017-06-22 11:14:36.337687
+Nonner Thermostat,End,2017-06-22 11:14:37.657652
+Nonner Thermostat,Start,2017-06-22 11:15:22.500035
+Nonner Thermostat,End,2017-06-22 11:15:23.962510
+Nonner Thermostat,Start,2017-06-22 11:16:06.093248
+Nonner Thermostat,End,2017-06-22 11:16:07.379479
+Nonner Thermostat,Start,2017-06-22 11:16:48.366397
+Nonner Thermostat,End,2017-06-22 11:16:49.822763
+Nonner Thermostat,Start,2017-06-22 11:17:27.469581
+Nonner Thermostat,End,2017-06-22 11:17:28.749216
+Nonner Thermostat,Start,2017-06-22 11:18:03.771351
+Nonner Thermostat,End,2017-06-22 11:18:05.179624
+Nonner Thermostat,Start,2017-06-22 11:18:43.375792
+Nonner Thermostat,End,2017-06-22 11:18:44.943015
+Nonner Thermostat,Start,2017-06-22 11:21:25.666965
+Nonner Thermostat,End,2017-06-22 11:21:27.156876
+Nonner Thermostat,Start,2017-06-22 11:24:16.476133
+Nonner Thermostat,End,2017-06-22 11:24:21.861751
+Nonner Thermostat,Start,2017-06-22 11:27:06.983379
+Nonner Thermostat,End,2017-06-22 11:27:08.254566
+Nonner Thermostat,Start,2017-06-22 11:29:12.885635
+Nonner Thermostat,Start,2017-06-22 11:30:48.019347
+Nonner Thermostat,Start,2017-06-22 11:32:52.528685
+Nonner Thermostat,End,2017-06-22 11:32:54.361410
+Nonner Thermostat,Start,2017-06-22 17:46:29.128191
+Nonner Thermostat,End,2017-06-22 17:46:30.927200
+Nonner Thermostat,Start,2017-06-22 17:46:30.931176
+Nonner Thermostat,End,2017-06-22 17:46:32.219194
+Nonner Thermostat,Start,2017-06-22 17:46:32.242255
+Nonner Thermostat,End,2017-06-22 17:46:34.465596
+Nonner Thermostat,Start,2017-06-22 17:46:34.469107
+Nonner Thermostat,Start,2017-06-22 18:09:33.567017
+Nonner Thermostat,End,2017-06-22 18:09:35.247067
+Nonner Thermostat,Start,2017-06-22 18:09:35.247067
+Nonner Thermostat,End,2017-06-22 18:09:36.836661
+Nonner Thermostat,Start,2017-06-22 18:09:36.837629
+Nonner Thermostat,End,2017-06-22 18:09:38.437079
+Nonner Thermostat,Start,2017-06-22 18:09:38.437079
+Nonner Thermostat,End,2017-06-22 18:09:39.945274
+Nonner Thermostat,Start,2017-06-22 18:09:39.946279
+Nonner Thermostat,End,2017-06-22 18:09:41.780879
+Nonner Thermostat,Start,2017-06-22 18:09:41.780879
+Nonner Thermostat,End,2017-06-22 18:09:43.914633
+Nonner Thermostat,Start,2017-06-22 18:09:43.915101
