@@ -43,13 +43,12 @@ def get_base(): #gets the bases and their zipcodes
             for name in base_names:
                 baselist.append(name[0]) #list of bases
                 ziplist.append(name[1]) #list of associated zip codes
-            length = len(baselist)
-            x = random.randint(1,length-1) #randomly selects base
+            x = random.randint(0,len(baselist)-1) #randomly selects base
             return baselist[x], ziplist[x]
 
 def get_wx(zipcode):
     #gets the weather from Open Weather Map for the base
-    r= requests.get('http://api.openweathermap.org/data/2.5/weather?zip=' + str(zipcode) +',us&units=imperial&APPID=d09d68180d854383348b432f4100a7b6').json()
+    r= requests.get('http://api.openweathermap.org/data/2.5/weather?zip=' + str(zipcode) +',us&units=imperial&APPID=' + Nonner_Thermostat_config.OpenWeatherAPIkey).json()
     #was getting errors when trying to have the API only return the temp value, so I'm just using 2 lines of code for it
     j = (r['main']) 
     return (j['temp'])
